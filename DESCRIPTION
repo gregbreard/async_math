@@ -1,0 +1,11 @@
+Package: lstm
+Type: Package
+Title: Long Short Term Memory
+Version: 0.1
+Author: Greg Breard
+Maintainer: Greg Breard <gregbreard@gmail.com>
+Description: Contains method for training LSTM models.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.4)
+LinkingTo: Rcpp, RcppArmadillo
+Depends: RcppArmadillo
